@@ -1,4 +1,8 @@
 body {
     background-color:rebeccapurple;
-    color:indigo;
+    color:black;
+}
+button {
+    background-color:purple;
+    color:black;
 }
